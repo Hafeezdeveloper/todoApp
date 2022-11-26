@@ -1,0 +1,18 @@
+.bg_clr{
+    background-color: gray;
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.cntr{
+    text-align: center;
+}
+#inp{
+    width: 50%;
+    height: 35px;
+}
+
+
+
+
